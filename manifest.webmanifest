@@ -1,0 +1,22 @@
+{
+  "background_color": "red",
+  "description": "Its free real estate",
+  "display": "fullscreen",
+
+  "icons": [
+    {
+      "src": "icon/real-estate.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+	
+	{
+	"src": "icon/real-estate-mobile.png"
+	
+	}
+	
+  ],
+  "name": "Free real estate",
+  "short_name": "Free real estate",
+  "start_url": "real-este.com!"
+}
